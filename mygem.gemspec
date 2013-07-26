@@ -2,11 +2,11 @@
 $:.push File.expand_path('../lib', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = 'my_gem'
+  s.name        = 'mygem'
   s.version     = '1.0.0'
   s.date        = '2013-07-08'
-  s.summary     = 'CHT OpCodes'
-  s.description = 'The gem used for managing OpCode definitions'
+  s.summary     = 'MyGem test.'
+  s.description = 'The gem'
   s.authors     = ['Steve Frank']
   s.email       = %w(steve@cloudhealthtech.com)
   s.homepage    = ''

@@ -1,1 +1,1 @@
-require '../lib/my_gem'
+require '../lib/mygem'

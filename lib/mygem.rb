@@ -1,1 +1,1 @@
-require 'my_gem/logic'
+require 'mygem/logic'
